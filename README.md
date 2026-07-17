@@ -216,6 +216,8 @@ It motivates me to build more data analytics projects.
 
 <p align="center">
 
-### 🚀 Happy Learning • Happy Coding ❤️
+### Made with ❤️ and SQL. Swiggy open dataset . INDIA
+
+
 
 </p>
